@@ -5,7 +5,7 @@ Este repositorio contiene el código desarrollado para un Trabajo Fin de Máster
 
 ## Contenido
 
-- `TFM_Github.ipynb`: Notebook ejecutable en Google Colab. Incluye todo el pipeline de procesamiento y clasificación.
+- `TFM.ipynb`: Notebook ejecutable en Google Colab. Incluye todo el pipeline de procesamiento y clasificación.
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 
 ## Dataset
